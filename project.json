@@ -1,9 +1,21 @@
 {
-	"description" : "Pagina originaria\nhttp://haxiomic.github.io/GPU-Fluid-Experiments/html5/",
 	"file" : "index.html",
-	"general" : null,
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
 	"preview" : "preview.jpg",
-	"title" : "Fluids",
+	"tags" : [ "Unspecified" ],
+	"title" : "Snake",
 	"type" : "web",
 	"visibility" : "public"
 }
