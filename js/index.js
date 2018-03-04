@@ -14,8 +14,8 @@ var chains = [],
 	my = cy,
 	md = 0,
 	tick = 0,
-	maxa = 2,
-	maxv = 1,
+	maxa = 4,
+	maxv = 4,
 	avoidTick = 20,
 	avoidThresh = 50,
 	TWO_PI = Math.PI * 2;
@@ -48,7 +48,7 @@ Impulse.prototype.step = function() {
 		this.vx += ( mx - this.x ) * 0.03;
 		this.vy += ( my - this.y ) * 0.03;
 	}
-	
+
 	this.ax += rand( -0.4, 0.4 );
 	this.ay += rand( -0.4, 0.4 );
 	this.vx += this.ax;
