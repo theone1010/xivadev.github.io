@@ -6,9 +6,9 @@ Maintainer: XIVA
 Depends: mobilesubstrate
 Filename: ./com.inf.minimalx_0.0.1-90+debug_iphoneos-arm.deb
 Size: 13162
-MD5sum: DD1684408D07C3B1E0D4E25DA05E2B8F
-SHA1: 8D97560F8C65E57D04FDA6ED8E5AACBC89B42ED1
-SHA256: D0D0090590A7E7ED00F5084B232F61044454F27587B623BCB3DAD5FF60436024
+MD5sum: dd1684408d07c3b1e0d4e25da05e2b8f
+SHA1: dd1684408d07c3b1e0d4e25da05e2b8f
+SHA256: d0d0090590a7e7ed00f5084b232f61044454f27587b623bcb3dad5ff60436024
 Homepage: http://twitter.com/xivadev
 Description: Collection of Tweaks to have a Minimalistic Look on iOS
 Name: MinimalX
