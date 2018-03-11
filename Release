@@ -1,9 +1,8 @@
-Origin: Decimation's Repo
-Label: Decimation's Repo
+Origin: WhyIsItReal's Semi-public Beta Repo
+Label: WhyIsItReal's Repo
 Suite: stable
-Version: 1.0
-Codename: Decimation
+Version: 0.1~b1
+Codename: stable
 Architectures: iphoneos-arm
 Components: main
-Description: Decimation's Repo
-MD5Sum:
+Description: WhyIsItReal's Semi-public Beta Repo
