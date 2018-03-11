@@ -1,6 +1,6 @@
 Package: com.xiva.minimalx
 Architecture: iphoneos-arm
-Version: 1.0~beta2
+Version: 1.0~beta1
 Section: Tweaks
 Maintainer: XIVA
 Depends: mobilesubstrate
