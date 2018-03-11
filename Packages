@@ -1,14 +1,12 @@
-Package: com.inf.minimalx
+Package: com.xiva.minimalx
 Architecture: iphoneos-arm
 Version: 1.0~beta1
 Section: Tweaks
 Maintainer: XIVA
 Depends: mobilesubstrate
-Filename: ./com.inf.minimalx_1.0~beta1-1+debug_iphoneos-arm.deb
-Size: 13418
-MD5sum: f75f28a8fe3f2ba1ed068eb5dbdd0458
-SHA1: 74fd649d27f722138fb368dbaf1ccc9a61ee2a5f
-SHA256: 2e686e1f8b8f56cec0ecf3de998dd7a1096fd9036b3544d3cc22665d47f57601
+Filename: ./com.xiva.minimalx_1.0~beta1-1+debug_iphoneos-arm.deb
+Size: 13406
+MD5sum: 9f42e3ade0369c401c7da5d9021d6eb1
 Homepage: http://twitter.com/xivadev
 Description: Collection of Tweaks to have a Minimalistic Look on iOS
 Name: MinimalX
