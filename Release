@@ -1,8 +1,8 @@
-Origin: WhyIsItReal's Semi-public Beta Repo
-Label: WhyIsItReal's Repo
+Origin: XIVA's Beta Repo
+Label: XIVA
 Suite: stable
-Version: 0.1~b1
+Version: 1.0
 Codename: stable
 Architectures: iphoneos-arm
 Components: main
-Description: WhyIsItReal's Semi-public Beta Repo
+Description: XIVA's Beta Repo

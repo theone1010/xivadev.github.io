@@ -1,15 +1,15 @@
-Package: com.whyisitreal.lyricsforspotify
-Version: 0.2~beta-1
+Package: com.inf.minimalx
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: WhyIsItReal <whyisitreal@outlook.com>
+Maintainer: XIVA <xiva.supp@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.whyisitreal.lyricsforspotify_0.2~beta-1_iphoneos-arm.deb
-Size: 7396
-MD5sum: f4adb64585f3f822ffd313f3b3f6caff
-SHA1: 0ffa2b32097f1c3ae8e78ae71f6f24ca34e413f5
-SHA256: f6d6a1737ba3655a885bf7de73af7a3ff13447280a55e7ef99dbc419960e6271
+Filename: ./debs/com.inf.minimalx_0.0.1-90+debug_iphoneos-arm.deb
+Size: 13162
+MD5sum: DD1684408D07C3B1E0D4E25DA05E2B8F
+SHA1: 8D97560F8C65E57D04FDA6ED8E5AACBC89B42ED1
+SHA256: D0D0090590A7E7ED00F5084B232F61044454F27587B623BCB3DAD5FF60436024
 Section: Tweaks
-Description: Enables the built-in lyrics for Spotify. Native implementation. Enables for every track, even those without lyrics. Works best with IamNoGenius installed (included as a dependency for now). Works on Spotify 8.4.23 (latest as of Mar 10 2018).
-Author: WhyIsItReal
-Depiction: https://whyisitreal.github.io/deps/lyricsforspotify.html
-Name: Lyrics For Spotify
+Description: Just a few Tweaks to have a sleek minimal look for iOS.
+Author: XIVA
+Depiction: https://xivadev.github.io/deps/lyricsforspotify.html
+Name: Minimalistic iOS
