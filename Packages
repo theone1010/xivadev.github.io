@@ -19,9 +19,9 @@ Version: 1.0
 Section: Tweaks
 Maintainer: XIVA
 Depends: mobilesubstrate
-Filename: ./com.xiva.hidefolderbg_0.0.1-2+debug_iphoneos-arm.deb
-Size: 3028
-MD5sum: 4ef02203ebfe9ac2781a91fd8c8a48d5
+Filename: ./com.xiva.hidefolderbg_1.0-1+debug_iphoneos-arm.deb
+Size: 3030
+MD5sum: 579343c7a623f062bcd9fd3ce597cbe1
 Homepage: http://twitter.com/xivadev
 Description: Hide the Background of the Folder Icon View
 Name: HideFolderBG
