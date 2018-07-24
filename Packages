@@ -12,3 +12,18 @@ Description: Collection of Tweaks to have a Minimalistic Look on iOS
 Name: MinimalX
 Author: XIVA
 Depiction: http://xivadev.github.io/description.html?id=com.minimalx.xiva
+
+Package: com.xiva.minimalx
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: XIVA
+Depends: mobilesubstrate
+Filename: ./com.xiva.hidefolderbg_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3028
+MD5sum: 4ef02203ebfe9ac2781a91fd8c8a48d5
+Homepage: http://twitter.com/xivadev
+Description: Hide the Background of the Folder Icon View
+Name: HideFolderBG
+Author: XIVA
+Depiction: http://xivadev.github.io/description.html?id=com.hidefolderbg.xiva
